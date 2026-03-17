@@ -1,0 +1,8 @@
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+fabric_cicd.error.log
+
+scripts/bpa/_tools
+.env
+__pycache__/
